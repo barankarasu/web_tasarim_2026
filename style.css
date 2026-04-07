@@ -1,0 +1,38 @@
+/* Seçiciler : Selectors 
+1. Etiket (Tag) Seçiciler*/ 
+h1,h2 {
+    color:blue
+    background-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+/* 
+2. Sınıf (Class) Seçiciler
+*/
+.baslik{
+    color: coral;
+    font-size: 45px;
+}
+
+/* 
+3. ID Seçiciler
+*/
+
+#header{
+    color: aqua;
+    font-size: 30px;
+}
+
+/*
+4. Evrensel Seçiciler
+*/
+
+*{
+    color: green;
+}
+
+/*
+5. Torun Seçiciler
+*/
+
